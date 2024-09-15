@@ -30,8 +30,9 @@ li {
   color: #F9F8FF;
 }
 
-.entete,
-.pied-de-page {
+header, 
+nav,
+footer {
   background-color: white;
 }
 
